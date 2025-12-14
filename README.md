@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Pawan Kumar Pandey</h1>
+<h1 align="center">Hi 👋, I'm Pawan Kumar Pandey</h1>
 <h3 align="center">Engineering Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan94580&label=Profile%20views&color=0e75b6&style=flat" alt="pawan94580" /> </p>
