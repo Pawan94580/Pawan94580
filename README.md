@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar Pandey</h1>
 <h3 align="center">Engineering Student from India</h3>
+<img align="right" alt="coding" width="400" src="https://pngtree.com/freepng/programmer-work-place-sketch_15375939.html">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan94580&label=Profile%20views&color=0e75b6&style=flat" alt="pawan94580" /> </p>
 
