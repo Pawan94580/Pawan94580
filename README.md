@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar Pandey</h1>
 <h3 align="center">Engineering Student from India</h3>
-<img align="right" alt="coding" width="400" src="[68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://pngtree.com/freepng/programmer-work-place-sketch_15375939.html)">
+<img align="right" alt="coding" width="400" src="[https://github.com/rudrabarad/Gifs](https://giphy.com/explore/computer-programmers-stickers)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan94580&label=Profile%20views&color=0e75b6&style=flat" alt="pawan94580" /> </p>
 
